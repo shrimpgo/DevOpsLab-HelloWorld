@@ -1,5 +1,6 @@
 # Linguagem Utilizada para Desenvolver a Aplicação
 language: python
+dist: bionic
 
 # Versão que a aplicação suporta.
 python:
