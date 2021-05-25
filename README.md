@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/shrimpgo/DevOpsLab-HelloWorld.svg?branch=master)](https://travis-ci.org/shrimpgo/DevOpsLab-HelloWorld)
+
 # Trilha DevOps da 4Linux
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
